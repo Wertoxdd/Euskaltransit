@@ -1,0 +1,45 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Archivos de pruebas y scripts aislados
+test_*.py
+test_script.js
+temp.js
+inspect_*.py
+analyze_*.py
+check_routes.py
+download_metro.py
+gen_metro_geojson.py
+
+# Herramientas y SO
+.git/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.gemini/

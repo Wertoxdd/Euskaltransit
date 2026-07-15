@@ -1,0 +1,7296 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-13T18:20:50Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41902264",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "layer": "-1",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9337704,
+            43.2680258
+          ],
+          [
+            -2.9340164,
+            43.2679988
+          ],
+          [
+            -2.9342601,
+            43.2679647
+          ],
+          [
+            -2.9344739,
+            43.2679297
+          ],
+          [
+            -2.9347248,
+            43.2678893
+          ]
+        ]
+      },
+      "id": "way/41902264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/137241790",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "layer": "-1",
+        "maxspeed": "60",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9087539,
+            43.2469116
+          ],
+          [
+            -2.9091716,
+            43.2467434
+          ]
+        ]
+      },
+      "id": "way/137241790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182198407",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "layer": "-2",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9056732,
+            43.2472373
+          ],
+          [
+            -2.9066249,
+            43.2472355
+          ],
+          [
+            -2.9066528,
+            43.2472355
+          ]
+        ]
+      },
+      "id": "way/182198407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182198408",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "60",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9070515,
+            43.2472347
+          ],
+          [
+            -2.9072271,
+            43.2472346
+          ],
+          [
+            -2.9073105,
+            43.2472333
+          ],
+          [
+            -2.907398,
+            43.2472302
+          ],
+          [
+            -2.907517,
+            43.2472227
+          ],
+          [
+            -2.9076435,
+            43.2472105
+          ],
+          [
+            -2.9077929,
+            43.247191
+          ],
+          [
+            -2.9079462,
+            43.2471639
+          ],
+          [
+            -2.908058,
+            43.24714
+          ],
+          [
+            -2.9081778,
+            43.2471107
+          ],
+          [
+            -2.9082921,
+            43.247078
+          ],
+          [
+            -2.9084067,
+            43.2470409
+          ],
+          [
+            -2.9085447,
+            43.2469922
+          ],
+          [
+            -2.9086456,
+            43.2469544
+          ],
+          [
+            -2.9087539,
+            43.2469116
+          ]
+        ]
+      },
+      "id": "way/182198408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/185572569",
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "layer": "1",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9246018,
+            43.2599444
+          ],
+          [
+            -2.9254786,
+            43.2603864
+          ]
+        ]
+      },
+      "id": "way/185572569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219269198",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "60",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9091439,
+            43.2467122
+          ],
+          [
+            -2.9092922,
+            43.2466549
+          ],
+          [
+            -2.909448,
+            43.2465972
+          ],
+          [
+            -2.909562,
+            43.2465584
+          ],
+          [
+            -2.9096603,
+            43.2465278
+          ],
+          [
+            -2.9097666,
+            43.2464971
+          ],
+          [
+            -2.9098653,
+            43.2464722
+          ],
+          [
+            -2.9099736,
+            43.2464478
+          ],
+          [
+            -2.9100702,
+            43.2464293
+          ],
+          [
+            -2.9102086,
+            43.2464043
+          ],
+          [
+            -2.9103893,
+            43.2463799
+          ],
+          [
+            -2.9105466,
+            43.2463672
+          ],
+          [
+            -2.9107415,
+            43.2463554
+          ],
+          [
+            -2.9112676,
+            43.2463232
+          ],
+          [
+            -2.9124233,
+            43.2462605
+          ],
+          [
+            -2.913484,
+            43.2461976
+          ]
+        ]
+      },
+      "id": "way/219269198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219269199",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "60",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9091716,
+            43.2467434
+          ],
+          [
+            -2.9093183,
+            43.2466857
+          ],
+          [
+            -2.9094734,
+            43.2466269
+          ],
+          [
+            -2.9095756,
+            43.2465923
+          ],
+          [
+            -2.9096682,
+            43.2465617
+          ],
+          [
+            -2.9097751,
+            43.2465298
+          ],
+          [
+            -2.9098718,
+            43.2465043
+          ],
+          [
+            -2.9099827,
+            43.2464782
+          ],
+          [
+            -2.9100863,
+            43.2464585
+          ],
+          [
+            -2.9101479,
+            43.2464455
+          ],
+          [
+            -2.9102584,
+            43.2464284
+          ],
+          [
+            -2.9103882,
+            43.2464127
+          ],
+          [
+            -2.9105481,
+            43.2463998
+          ],
+          [
+            -2.9107332,
+            43.2463864
+          ],
+          [
+            -2.9112507,
+            43.2463577
+          ],
+          [
+            -2.911996,
+            43.2463155
+          ],
+          [
+            -2.9123245,
+            43.2462979
+          ],
+          [
+            -2.9127565,
+            43.246274
+          ],
+          [
+            -2.9134828,
+            43.2462339
+          ]
+        ]
+      },
+      "id": "way/219269199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219269200",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "layer": "-1",
+        "maxspeed": "60",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9087286,
+            43.2468799
+          ],
+          [
+            -2.9091439,
+            43.2467122
+          ]
+        ]
+      },
+      "id": "way/219269200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219269202",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "30",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9219725,
+            43.2514982
+          ],
+          [
+            -2.922028,
+            43.2515483
+          ],
+          [
+            -2.9220736,
+            43.2515969
+          ],
+          [
+            -2.9221057,
+            43.2516361
+          ],
+          [
+            -2.9221289,
+            43.2516692
+          ],
+          [
+            -2.9221487,
+            43.2517004
+          ],
+          [
+            -2.9221698,
+            43.2517398
+          ],
+          [
+            -2.9221879,
+            43.2517808
+          ],
+          [
+            -2.9222057,
+            43.2518304
+          ],
+          [
+            -2.9222194,
+            43.2518821
+          ],
+          [
+            -2.9222268,
+            43.2519361
+          ],
+          [
+            -2.9222285,
+            43.2519754
+          ],
+          [
+            -2.9222281,
+            43.2520074
+          ],
+          [
+            -2.9222255,
+            43.2520464
+          ],
+          [
+            -2.9222168,
+            43.2521009
+          ],
+          [
+            -2.9222073,
+            43.2521329
+          ],
+          [
+            -2.9221936,
+            43.2521788
+          ],
+          [
+            -2.9221759,
+            43.2522291
+          ],
+          [
+            -2.922141,
+            43.2523288
+          ],
+          [
+            -2.9221051,
+            43.2524337
+          ],
+          [
+            -2.9220442,
+            43.252615
+          ]
+        ]
+      },
+      "id": "way/219269202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219269206",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "layer": "-2",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9056724,
+            43.2472083
+          ],
+          [
+            -2.9066255,
+            43.2472057
+          ]
+        ]
+      },
+      "id": "way/219269206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219269210",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "60",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9066524,
+            43.2472057
+          ],
+          [
+            -2.9070504,
+            43.2472059
+          ],
+          [
+            -2.9072246,
+            43.247205
+          ],
+          [
+            -2.90731,
+            43.2472034
+          ],
+          [
+            -2.9073925,
+            43.2472006
+          ],
+          [
+            -2.9075132,
+            43.247193
+          ],
+          [
+            -2.907639,
+            43.2471815
+          ],
+          [
+            -2.9077871,
+            43.2471619
+          ],
+          [
+            -2.9079322,
+            43.2471357
+          ],
+          [
+            -2.908052,
+            43.2471098
+          ],
+          [
+            -2.9081609,
+            43.2470823
+          ],
+          [
+            -2.9082849,
+            43.2470459
+          ],
+          [
+            -2.908382,
+            43.2470144
+          ],
+          [
+            -2.9085174,
+            43.2469636
+          ],
+          [
+            -2.9086264,
+            43.2469211
+          ],
+          [
+            -2.9087286,
+            43.2468799
+          ]
+        ]
+      },
+      "id": "way/219269210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219269211",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "layer": "-2",
+        "maxspeed": "55",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9169285,
+            43.244879
+          ],
+          [
+            -2.9170822,
+            43.2448518
+          ],
+          [
+            -2.9172368,
+            43.244829
+          ],
+          [
+            -2.9174993,
+            43.2448082
+          ],
+          [
+            -2.9177356,
+            43.2448102
+          ],
+          [
+            -2.9179482,
+            43.2448226
+          ],
+          [
+            -2.9181661,
+            43.2448537
+          ],
+          [
+            -2.9183573,
+            43.2448911
+          ],
+          [
+            -2.9185488,
+            43.2449429
+          ],
+          [
+            -2.9187134,
+            43.2449952
+          ],
+          [
+            -2.9188275,
+            43.245041
+          ],
+          [
+            -2.9189211,
+            43.2450837
+          ],
+          [
+            -2.9190915,
+            43.2451743
+          ],
+          [
+            -2.9192092,
+            43.2452478
+          ],
+          [
+            -2.9193161,
+            43.2453235
+          ],
+          [
+            -2.9194803,
+            43.2454606
+          ],
+          [
+            -2.9196155,
+            43.2455947
+          ],
+          [
+            -2.9197192,
+            43.2457262
+          ],
+          [
+            -2.9198212,
+            43.245875
+          ],
+          [
+            -2.9198794,
+            43.2459909
+          ],
+          [
+            -2.9199183,
+            43.2460828
+          ],
+          [
+            -2.9199496,
+            43.2461672
+          ],
+          [
+            -2.9199738,
+            43.246242
+          ],
+          [
+            -2.9200179,
+            43.246385
+          ],
+          [
+            -2.9200812,
+            43.2465889
+          ]
+        ]
+      },
+      "id": "way/219269211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219373110",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "45",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9209776,
+            43.2499838
+          ],
+          [
+            -2.9210222,
+            43.25017
+          ],
+          [
+            -2.9210983,
+            43.2504716
+          ],
+          [
+            -2.9211132,
+            43.2505234
+          ],
+          [
+            -2.9211409,
+            43.2506096
+          ],
+          [
+            -2.9211619,
+            43.2506638
+          ],
+          [
+            -2.9211831,
+            43.2507114
+          ],
+          [
+            -2.9212076,
+            43.2507618
+          ],
+          [
+            -2.9212339,
+            43.2508094
+          ],
+          [
+            -2.9212666,
+            43.2508629
+          ],
+          [
+            -2.9213014,
+            43.2509132
+          ],
+          [
+            -2.9213423,
+            43.2509674
+          ],
+          [
+            -2.92138,
+            43.2510124
+          ],
+          [
+            -2.9214299,
+            43.2510662
+          ],
+          [
+            -2.9214808,
+            43.2511161
+          ],
+          [
+            -2.9215334,
+            43.2511644
+          ],
+          [
+            -2.9216162,
+            43.251237
+          ],
+          [
+            -2.9217061,
+            43.2513144
+          ],
+          [
+            -2.9219327,
+            43.2515126
+          ]
+        ]
+      },
+      "id": "way/219373110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219373112",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "30",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9219327,
+            43.2515126
+          ],
+          [
+            -2.9219971,
+            43.2515721
+          ],
+          [
+            -2.9220377,
+            43.2516184
+          ],
+          [
+            -2.9220656,
+            43.2516543
+          ],
+          [
+            -2.9220987,
+            43.2517041
+          ],
+          [
+            -2.9221181,
+            43.251739
+          ],
+          [
+            -2.922144,
+            43.2517967
+          ],
+          [
+            -2.9221624,
+            43.2518514
+          ],
+          [
+            -2.9221742,
+            43.2519075
+          ],
+          [
+            -2.9221808,
+            43.251969
+          ],
+          [
+            -2.9221808,
+            43.252024
+          ],
+          [
+            -2.9221728,
+            43.2520859
+          ],
+          [
+            -2.9221628,
+            43.252131
+          ],
+          [
+            -2.922145,
+            43.2521898
+          ],
+          [
+            -2.9221263,
+            43.2522434
+          ],
+          [
+            -2.9220708,
+            43.2524111
+          ],
+          [
+            -2.9220595,
+            43.2524721
+          ],
+          [
+            -2.9220498,
+            43.2525637
+          ],
+          [
+            -2.9220442,
+            43.252615
+          ]
+        ]
+      },
+      "id": "way/219373112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445934750",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.926115,
+            43.2589996
+          ],
+          [
+            -2.9259689,
+            43.2590438
+          ],
+          [
+            -2.9257832,
+            43.259094
+          ],
+          [
+            -2.9256136,
+            43.2591328
+          ],
+          [
+            -2.9255742,
+            43.2591418
+          ],
+          [
+            -2.9253523,
+            43.2591797
+          ]
+        ]
+      },
+      "id": "way/445934750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445934751",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9235717,
+            43.2555398
+          ],
+          [
+            -2.9236696,
+            43.255566
+          ],
+          [
+            -2.9237588,
+            43.2555957
+          ],
+          [
+            -2.9237811,
+            43.2556033
+          ],
+          [
+            -2.9240815,
+            43.2557179
+          ],
+          [
+            -2.9241579,
+            43.2557471
+          ],
+          [
+            -2.9242102,
+            43.2557667
+          ],
+          [
+            -2.9243922,
+            43.2558348
+          ],
+          [
+            -2.924562,
+            43.2559004
+          ],
+          [
+            -2.9246328,
+            43.2559277
+          ],
+          [
+            -2.9248036,
+            43.2559926
+          ],
+          [
+            -2.9249,
+            43.2560386
+          ],
+          [
+            -2.9249294,
+            43.2560538
+          ],
+          [
+            -2.9249952,
+            43.2560877
+          ],
+          [
+            -2.925083,
+            43.2561465
+          ],
+          [
+            -2.9251672,
+            43.2562119
+          ],
+          [
+            -2.9253026,
+            43.2563356
+          ],
+          [
+            -2.9253991,
+            43.2564255
+          ],
+          [
+            -2.9256461,
+            43.2566555
+          ],
+          [
+            -2.9258408,
+            43.2568394
+          ],
+          [
+            -2.9259097,
+            43.2569048
+          ],
+          [
+            -2.9259366,
+            43.2569307
+          ],
+          [
+            -2.9260222,
+            43.2570298
+          ],
+          [
+            -2.9260983,
+            43.2571342
+          ],
+          [
+            -2.9263292,
+            43.2574883
+          ],
+          [
+            -2.9263673,
+            43.257549
+          ],
+          [
+            -2.9264643,
+            43.2576938
+          ],
+          [
+            -2.9265303,
+            43.2578079
+          ],
+          [
+            -2.9265773,
+            43.2578996
+          ],
+          [
+            -2.9265874,
+            43.2579205
+          ],
+          [
+            -2.9265991,
+            43.2579447
+          ],
+          [
+            -2.9266522,
+            43.2580677
+          ],
+          [
+            -2.9266829,
+            43.2581555
+          ],
+          [
+            -2.9267007,
+            43.258231
+          ],
+          [
+            -2.9267088,
+            43.2582882
+          ],
+          [
+            -2.9267096,
+            43.2583619
+          ],
+          [
+            -2.9267032,
+            43.2584409
+          ],
+          [
+            -2.926687,
+            43.2585046
+          ],
+          [
+            -2.9266586,
+            43.2585777
+          ],
+          [
+            -2.9266182,
+            43.2586515
+          ],
+          [
+            -2.9265688,
+            43.2587175
+          ]
+        ]
+      },
+      "id": "way/445934751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445935028",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9243299,
+            43.2593962
+          ],
+          [
+            -2.9242618,
+            43.2594302
+          ],
+          [
+            -2.9242132,
+            43.2594663
+          ],
+          [
+            -2.9241777,
+            43.2595166
+          ],
+          [
+            -2.9241655,
+            43.2595459
+          ],
+          [
+            -2.9241562,
+            43.2595955
+          ],
+          [
+            -2.9241683,
+            43.2596527
+          ],
+          [
+            -2.9241992,
+            43.2597084
+          ],
+          [
+            -2.9242412,
+            43.2597452
+          ],
+          [
+            -2.9243029,
+            43.2597833
+          ],
+          [
+            -2.9244526,
+            43.259864
+          ],
+          [
+            -2.9246018,
+            43.2599444
+          ]
+        ]
+      },
+      "id": "way/445935028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445937112",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9259744,
+            43.264325
+          ],
+          [
+            -2.9260924,
+            43.2643904
+          ],
+          [
+            -2.9262468,
+            43.264476
+          ],
+          [
+            -2.9264476,
+            43.2645923
+          ],
+          [
+            -2.9265812,
+            43.2646719
+          ],
+          [
+            -2.926847,
+            43.2648387
+          ],
+          [
+            -2.9270422,
+            43.2649673
+          ],
+          [
+            -2.927051,
+            43.2649731
+          ],
+          [
+            -2.9271006,
+            43.2650058
+          ],
+          [
+            -2.9272883,
+            43.2651355
+          ],
+          [
+            -2.9275547,
+            43.265326
+          ],
+          [
+            -2.9277167,
+            43.2654498
+          ],
+          [
+            -2.9279077,
+            43.2656005
+          ],
+          [
+            -2.9280839,
+            43.2657448
+          ],
+          [
+            -2.9281644,
+            43.2658108
+          ],
+          [
+            -2.9283922,
+            43.266013
+          ],
+          [
+            -2.9285444,
+            43.2661494
+          ],
+          [
+            -2.9287285,
+            43.2663144
+          ],
+          [
+            -2.9288883,
+            43.2664577
+          ],
+          [
+            -2.9289474,
+            43.2665107
+          ],
+          [
+            -2.929148,
+            43.2666941
+          ],
+          [
+            -2.9294127,
+            43.2669442
+          ],
+          [
+            -2.9294312,
+            43.2669624
+          ],
+          [
+            -2.9294623,
+            43.2669943
+          ],
+          [
+            -2.9294994,
+            43.2670318
+          ],
+          [
+            -2.9296494,
+            43.267193
+          ],
+          [
+            -2.9297729,
+            43.2673321
+          ],
+          [
+            -2.9298395,
+            43.2674028
+          ],
+          [
+            -2.929943,
+            43.2675038
+          ],
+          [
+            -2.9300798,
+            43.2676268
+          ],
+          [
+            -2.9302013,
+            43.2677352
+          ],
+          [
+            -2.9302948,
+            43.2678187
+          ],
+          [
+            -2.9303654,
+            43.2678789
+          ]
+        ]
+      },
+      "id": "way/445937112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445937962",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9259988,
+            43.2643001
+          ],
+          [
+            -2.9261236,
+            43.2643684
+          ],
+          [
+            -2.9261785,
+            43.2643984
+          ],
+          [
+            -2.9263906,
+            43.2645216
+          ],
+          [
+            -2.9266101,
+            43.2646515
+          ],
+          [
+            -2.9268567,
+            43.2648072
+          ],
+          [
+            -2.9270476,
+            43.2649322
+          ],
+          [
+            -2.9270785,
+            43.2649528
+          ],
+          [
+            -2.9272546,
+            43.2650701
+          ],
+          [
+            -2.9274439,
+            43.2652044
+          ],
+          [
+            -2.9277199,
+            43.2654077
+          ],
+          [
+            -2.927951,
+            43.2655912
+          ],
+          [
+            -2.928113,
+            43.2657248
+          ],
+          [
+            -2.9282061,
+            43.2658015
+          ],
+          [
+            -2.9285873,
+            43.2661317
+          ],
+          [
+            -2.9287595,
+            43.2662921
+          ],
+          [
+            -2.9290148,
+            43.2665247
+          ],
+          [
+            -2.9294015,
+            43.2668858
+          ],
+          [
+            -2.9294961,
+            43.2669769
+          ],
+          [
+            -2.9295362,
+            43.2670165
+          ],
+          [
+            -2.9295764,
+            43.2670563
+          ],
+          [
+            -2.929667,
+            43.2671551
+          ],
+          [
+            -2.929809,
+            43.267314
+          ],
+          [
+            -2.9299374,
+            43.2674472
+          ],
+          [
+            -2.9302102,
+            43.2676954
+          ],
+          [
+            -2.9304001,
+            43.2678601
+          ]
+        ]
+      },
+      "id": "way/445937962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445938347",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "layer": "-1",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9337709,
+            43.2680645
+          ],
+          [
+            -2.9340348,
+            43.2680341
+          ],
+          [
+            -2.9342859,
+            43.2679979
+          ],
+          [
+            -2.9345667,
+            43.2679523
+          ],
+          [
+            -2.9347207,
+            43.2679278
+          ]
+        ]
+      },
+      "id": "way/445938347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445938970",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9353513,
+            43.2680099
+          ],
+          [
+            -2.9354134,
+            43.2680477
+          ],
+          [
+            -2.9355359,
+            43.2681276
+          ],
+          [
+            -2.9356987,
+            43.2682257
+          ],
+          [
+            -2.9358736,
+            43.2683192
+          ],
+          [
+            -2.9360654,
+            43.2684138
+          ],
+          [
+            -2.9362419,
+            43.2684921
+          ],
+          [
+            -2.9364405,
+            43.2685696
+          ],
+          [
+            -2.93667,
+            43.2686489
+          ],
+          [
+            -2.9367978,
+            43.2686907
+          ],
+          [
+            -2.9369107,
+            43.2687213
+          ],
+          [
+            -2.9370454,
+            43.268756
+          ],
+          [
+            -2.9371927,
+            43.2687916
+          ],
+          [
+            -2.9373208,
+            43.2688178
+          ],
+          [
+            -2.9374645,
+            43.2688448
+          ],
+          [
+            -2.9375197,
+            43.2688548
+          ],
+          [
+            -2.9375509,
+            43.2688595
+          ],
+          [
+            -2.9376651,
+            43.2688759
+          ],
+          [
+            -2.9378708,
+            43.2689017
+          ],
+          [
+            -2.9380973,
+            43.2689215
+          ],
+          [
+            -2.9383453,
+            43.2689351
+          ],
+          [
+            -2.9385589,
+            43.2689361
+          ],
+          [
+            -2.9387744,
+            43.2689321
+          ],
+          [
+            -2.9389967,
+            43.2689189
+          ],
+          [
+            -2.9391838,
+            43.2689027
+          ],
+          [
+            -2.9393318,
+            43.2688845
+          ],
+          [
+            -2.9395786,
+            43.2688472
+          ],
+          [
+            -2.9398072,
+            43.2688037
+          ],
+          [
+            -2.940009,
+            43.2687578
+          ],
+          [
+            -2.9400526,
+            43.2687447
+          ],
+          [
+            -2.9401231,
+            43.2687271
+          ],
+          [
+            -2.9401824,
+            43.2687115
+          ],
+          [
+            -2.9402644,
+            43.2686897
+          ],
+          [
+            -2.9403352,
+            43.2686669
+          ],
+          [
+            -2.9403744,
+            43.2686556
+          ],
+          [
+            -2.9405811,
+            43.2685873
+          ],
+          [
+            -2.940664,
+            43.2685583
+          ],
+          [
+            -2.9407887,
+            43.2685113
+          ],
+          [
+            -2.9408978,
+            43.2684659
+          ],
+          [
+            -2.9410782,
+            43.2683861
+          ],
+          [
+            -2.9412259,
+            43.2683151
+          ],
+          [
+            -2.9413702,
+            43.2682419
+          ],
+          [
+            -2.9415584,
+            43.2681345
+          ],
+          [
+            -2.9417139,
+            43.268038
+          ],
+          [
+            -2.9418741,
+            43.2679327
+          ],
+          [
+            -2.9418972,
+            43.2679154
+          ],
+          [
+            -2.9419969,
+            43.2678409
+          ],
+          [
+            -2.9420711,
+            43.2677783
+          ],
+          [
+            -2.9421354,
+            43.2677248
+          ],
+          [
+            -2.9422165,
+            43.2676502
+          ],
+          [
+            -2.9422992,
+            43.2675664
+          ],
+          [
+            -2.9423767,
+            43.2674802
+          ],
+          [
+            -2.942444,
+            43.2673964
+          ],
+          [
+            -2.9425287,
+            43.2672888
+          ],
+          [
+            -2.9425839,
+            43.2672142
+          ],
+          [
+            -2.9426132,
+            43.2671755
+          ]
+        ]
+      },
+      "id": "way/445938970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445947753",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9353409,
+            43.2680458
+          ],
+          [
+            -2.9355511,
+            43.2681778
+          ],
+          [
+            -2.9356498,
+            43.2682362
+          ],
+          [
+            -2.9357525,
+            43.2682941
+          ],
+          [
+            -2.9358624,
+            43.2683542
+          ],
+          [
+            -2.935998,
+            43.2684203
+          ],
+          [
+            -2.936152,
+            43.2684892
+          ],
+          [
+            -2.9362812,
+            43.2685453
+          ],
+          [
+            -2.9364217,
+            43.2685992
+          ],
+          [
+            -2.9366365,
+            43.2686727
+          ],
+          [
+            -2.9368501,
+            43.2687373
+          ],
+          [
+            -2.9368981,
+            43.2687507
+          ],
+          [
+            -2.9370393,
+            43.2687879
+          ],
+          [
+            -2.9371801,
+            43.2688216
+          ],
+          [
+            -2.9373104,
+            43.2688487
+          ],
+          [
+            -2.9374559,
+            43.2688723
+          ],
+          [
+            -2.9375432,
+            43.2688905
+          ],
+          [
+            -2.9376582,
+            43.2689071
+          ],
+          [
+            -2.9378765,
+            43.2689341
+          ],
+          [
+            -2.9380772,
+            43.2689508
+          ],
+          [
+            -2.9382908,
+            43.2689643
+          ],
+          [
+            -2.9385245,
+            43.2689685
+          ],
+          [
+            -2.9387761,
+            43.2689633
+          ],
+          [
+            -2.938996,
+            43.2689505
+          ],
+          [
+            -2.9391962,
+            43.2689325
+          ],
+          [
+            -2.9393346,
+            43.2689163
+          ],
+          [
+            -2.9395906,
+            43.2688779
+          ],
+          [
+            -2.9398171,
+            43.2688344
+          ],
+          [
+            -2.9400219,
+            43.2687871
+          ],
+          [
+            -2.9400694,
+            43.2687773
+          ],
+          [
+            -2.9401431,
+            43.2687587
+          ],
+          [
+            -2.9402006,
+            43.2687398
+          ],
+          [
+            -2.9402815,
+            43.2687197
+          ],
+          [
+            -2.9403513,
+            43.2686959
+          ],
+          [
+            -2.9404078,
+            43.2686801
+          ],
+          [
+            -2.940614,
+            43.2686109
+          ],
+          [
+            -2.9407729,
+            43.268552
+          ],
+          [
+            -2.9409198,
+            43.2684936
+          ],
+          [
+            -2.9410874,
+            43.2684199
+          ],
+          [
+            -2.9412574,
+            43.2683391
+          ],
+          [
+            -2.9413816,
+            43.2682753
+          ],
+          [
+            -2.9415055,
+            43.268206
+          ],
+          [
+            -2.9416716,
+            43.2681059
+          ],
+          [
+            -2.9418991,
+            43.2679519
+          ],
+          [
+            -2.9419242,
+            43.2679343
+          ],
+          [
+            -2.9420437,
+            43.2678501
+          ],
+          [
+            -2.9421078,
+            43.267797
+          ],
+          [
+            -2.9421638,
+            43.267749
+          ],
+          [
+            -2.9422472,
+            43.2676717
+          ],
+          [
+            -2.9423329,
+            43.2675852
+          ],
+          [
+            -2.9424159,
+            43.2674926
+          ],
+          [
+            -2.9424932,
+            43.2673948
+          ],
+          [
+            -2.942569,
+            43.2672994
+          ],
+          [
+            -2.9426231,
+            43.2672233
+          ],
+          [
+            -2.9428104,
+            43.2669764
+          ]
+        ]
+      },
+      "id": "way/445947753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530580437",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "layer": "-2",
+        "maxspeed": "55",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9169593,
+            43.2449286
+          ],
+          [
+            -2.9170917,
+            43.2449069
+          ],
+          [
+            -2.9172429,
+            43.2448874
+          ],
+          [
+            -2.9175001,
+            43.2448687
+          ],
+          [
+            -2.9177326,
+            43.2448732
+          ],
+          [
+            -2.917924,
+            43.2448852
+          ],
+          [
+            -2.9181384,
+            43.2449189
+          ],
+          [
+            -2.918321,
+            43.2449548
+          ],
+          [
+            -2.9185056,
+            43.2450073
+          ],
+          [
+            -2.9186578,
+            43.2450596
+          ],
+          [
+            -2.9187977,
+            43.245116
+          ],
+          [
+            -2.9189222,
+            43.2451766
+          ],
+          [
+            -2.9190974,
+            43.245277
+          ],
+          [
+            -2.9192431,
+            43.2453737
+          ],
+          [
+            -2.9193789,
+            43.2454844
+          ],
+          [
+            -2.9195342,
+            43.2456337
+          ],
+          [
+            -2.9196246,
+            43.2457473
+          ],
+          [
+            -2.9197225,
+            43.245896
+          ],
+          [
+            -2.9197906,
+            43.2460204
+          ],
+          [
+            -2.9198291,
+            43.2460964
+          ],
+          [
+            -2.9198623,
+            43.2461657
+          ],
+          [
+            -2.9198949,
+            43.2462468
+          ],
+          [
+            -2.919958,
+            43.2464054
+          ],
+          [
+            -2.9200269,
+            43.2465995
+          ]
+        ]
+      },
+      "id": "way/530580437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/555533279",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9254786,
+            43.2603864
+          ],
+          [
+            -2.9254977,
+            43.260396
+          ],
+          [
+            -2.9256363,
+            43.2604656
+          ],
+          [
+            -2.9262914,
+            43.2608029
+          ],
+          [
+            -2.9266195,
+            43.2609717
+          ],
+          [
+            -2.9268206,
+            43.2610753
+          ]
+        ]
+      },
+      "id": "way/555533279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/569401808",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9439216,
+            43.2577517
+          ],
+          [
+            -2.9439377,
+            43.2577525
+          ],
+          [
+            -2.9439594,
+            43.2577535
+          ],
+          [
+            -2.9440389,
+            43.2577578
+          ],
+          [
+            -2.9443695,
+            43.2577762
+          ]
+        ]
+      },
+      "id": "way/569401808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/573653221",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "tunnel": "building_passage",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9497126,
+            43.2622644
+          ],
+          [
+            -2.9497676,
+            43.2623015
+          ],
+          [
+            -2.94981,
+            43.2623272
+          ],
+          [
+            -2.9498399,
+            43.2623403
+          ]
+        ]
+      },
+      "id": "way/573653221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/573653225",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "tunnel": "building_passage",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9497429,
+            43.2622398
+          ],
+          [
+            -2.9497866,
+            43.2622686
+          ],
+          [
+            -2.9498444,
+            43.2623017
+          ],
+          [
+            -2.9498735,
+            43.262313
+          ]
+        ]
+      },
+      "id": "way/573653225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/573653246",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9498399,
+            43.2623403
+          ],
+          [
+            -2.9498448,
+            43.2623423
+          ],
+          [
+            -2.9498809,
+            43.2623549
+          ],
+          [
+            -2.949923,
+            43.2623634
+          ],
+          [
+            -2.9499472,
+            43.2623671
+          ],
+          [
+            -2.9499811,
+            43.2623693
+          ],
+          [
+            -2.9500055,
+            43.2623697
+          ],
+          [
+            -2.9500686,
+            43.2623626
+          ],
+          [
+            -2.9501152,
+            43.262351
+          ],
+          [
+            -2.950158,
+            43.2623352
+          ],
+          [
+            -2.9501969,
+            43.262314
+          ],
+          [
+            -2.9502329,
+            43.2622885
+          ],
+          [
+            -2.950267,
+            43.2622512
+          ],
+          [
+            -2.9502985,
+            43.2622045
+          ],
+          [
+            -2.9503286,
+            43.2621438
+          ],
+          [
+            -2.9504123,
+            43.2619482
+          ]
+        ]
+      },
+      "id": "way/573653246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/573653254",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9498735,
+            43.262313
+          ],
+          [
+            -2.9498823,
+            43.262316
+          ],
+          [
+            -2.9499206,
+            43.2623261
+          ],
+          [
+            -2.9499645,
+            43.2623324
+          ],
+          [
+            -2.9500028,
+            43.262333
+          ],
+          [
+            -2.9500336,
+            43.262331
+          ],
+          [
+            -2.9500605,
+            43.2623268
+          ],
+          [
+            -2.9500945,
+            43.2623187
+          ],
+          [
+            -2.9501271,
+            43.2623069
+          ],
+          [
+            -2.9501657,
+            43.2622864
+          ],
+          [
+            -2.9502009,
+            43.2622586
+          ],
+          [
+            -2.9502252,
+            43.2622339
+          ],
+          [
+            -2.9502594,
+            43.2621973
+          ],
+          [
+            -2.9502909,
+            43.2621433
+          ],
+          [
+            -2.950376,
+            43.2619417
+          ]
+        ]
+      },
+      "id": "way/573653254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/628872388",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9443695,
+            43.2577762
+          ],
+          [
+            -2.9447324,
+            43.257793
+          ],
+          [
+            -2.9450718,
+            43.2578097
+          ]
+        ]
+      },
+      "id": "way/628872388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/648836629",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "55",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9200812,
+            43.2465889
+          ],
+          [
+            -2.920305,
+            43.2473754
+          ],
+          [
+            -2.9206575,
+            43.2486177
+          ],
+          [
+            -2.9208193,
+            43.249191
+          ],
+          [
+            -2.9209295,
+            43.2496158
+          ],
+          [
+            -2.9210284,
+            43.2500152
+          ]
+        ]
+      },
+      "id": "way/648836629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/648836631",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "55",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9200269,
+            43.2465995
+          ],
+          [
+            -2.9201426,
+            43.2469562
+          ],
+          [
+            -2.9202637,
+            43.2473826
+          ],
+          [
+            -2.9204517,
+            43.2480438
+          ],
+          [
+            -2.9205644,
+            43.248436
+          ],
+          [
+            -2.9206161,
+            43.2486235
+          ],
+          [
+            -2.9207774,
+            43.2491933
+          ],
+          [
+            -2.9208182,
+            43.2493439
+          ],
+          [
+            -2.9208893,
+            43.2496296
+          ],
+          [
+            -2.9209776,
+            43.2499838
+          ]
+        ]
+      },
+      "id": "way/648836631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/648836636",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "45",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9210284,
+            43.2500152
+          ],
+          [
+            -2.9211415,
+            43.2504677
+          ],
+          [
+            -2.9211648,
+            43.2505448
+          ],
+          [
+            -2.9211885,
+            43.2506133
+          ],
+          [
+            -2.9212163,
+            43.2506794
+          ],
+          [
+            -2.9212488,
+            43.2507476
+          ],
+          [
+            -2.9212803,
+            43.2508014
+          ],
+          [
+            -2.9213202,
+            43.2508658
+          ],
+          [
+            -2.9213654,
+            43.2509289
+          ],
+          [
+            -2.9214141,
+            43.2509891
+          ],
+          [
+            -2.9214704,
+            43.2510511
+          ],
+          [
+            -2.9215137,
+            43.2510951
+          ],
+          [
+            -2.921563,
+            43.2511403
+          ],
+          [
+            -2.9216872,
+            43.2512495
+          ],
+          [
+            -2.9219725,
+            43.2514982
+          ]
+        ]
+      },
+      "id": "way/648836636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/754122672",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9049328,
+            43.2472649
+          ],
+          [
+            -2.9050339,
+            43.247256
+          ],
+          [
+            -2.905136,
+            43.247249
+          ],
+          [
+            -2.9052468,
+            43.2472436
+          ],
+          [
+            -2.9053671,
+            43.24724
+          ],
+          [
+            -2.9054797,
+            43.2472382
+          ],
+          [
+            -2.9056732,
+            43.2472373
+          ]
+        ]
+      },
+      "id": "way/754122672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/754122673",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9049192,
+            43.2472363
+          ],
+          [
+            -2.9050291,
+            43.2472267
+          ],
+          [
+            -2.9051296,
+            43.2472199
+          ],
+          [
+            -2.9052411,
+            43.2472146
+          ],
+          [
+            -2.9053616,
+            43.247211
+          ],
+          [
+            -2.9054751,
+            43.2472099
+          ],
+          [
+            -2.9056724,
+            43.2472083
+          ]
+        ]
+      },
+      "id": "way/754122673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/754124297",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "30",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9219366,
+            43.253115
+          ],
+          [
+            -2.9219485,
+            43.2530045
+          ],
+          [
+            -2.9219556,
+            43.2529449
+          ],
+          [
+            -2.9219626,
+            43.2528846
+          ],
+          [
+            -2.9219776,
+            43.2528142
+          ],
+          [
+            -2.9220442,
+            43.252615
+          ]
+        ]
+      },
+      "id": "way/754124297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/754124299",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "30",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9219366,
+            43.253115
+          ],
+          [
+            -2.9219328,
+            43.2531505
+          ],
+          [
+            -2.9219213,
+            43.25326
+          ],
+          [
+            -2.9219162,
+            43.2533093
+          ],
+          [
+            -2.9219134,
+            43.253337
+          ],
+          [
+            -2.921911,
+            43.2533768
+          ],
+          [
+            -2.9219097,
+            43.2534091
+          ],
+          [
+            -2.9219113,
+            43.2534484
+          ],
+          [
+            -2.9219143,
+            43.253518
+          ],
+          [
+            -2.9219204,
+            43.2535896
+          ],
+          [
+            -2.9219274,
+            43.2536328
+          ],
+          [
+            -2.9219361,
+            43.253674
+          ],
+          [
+            -2.9219475,
+            43.2537185
+          ],
+          [
+            -2.9219717,
+            43.2538054
+          ]
+        ]
+      },
+      "id": "way/754124299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026649190",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9459348,
+            43.2578177
+          ],
+          [
+            -2.9458724,
+            43.2578144
+          ],
+          [
+            -2.9456877,
+            43.2578047
+          ],
+          [
+            -2.9455014,
+            43.2577955
+          ],
+          [
+            -2.9452833,
+            43.2578027
+          ],
+          [
+            -2.9450718,
+            43.2578097
+          ]
+        ]
+      },
+      "id": "way/1026649190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026649191",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9459393,
+            43.2578543
+          ],
+          [
+            -2.9458764,
+            43.2578509
+          ],
+          [
+            -2.9457285,
+            43.2578428
+          ],
+          [
+            -2.9454914,
+            43.2578309
+          ],
+          [
+            -2.9450718,
+            43.2578097
+          ]
+        ]
+      },
+      "id": "way/1026649191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026649192",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "30",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9486964,
+            43.2579558
+          ],
+          [
+            -2.9481557,
+            43.2579255
+          ],
+          [
+            -2.9481153,
+            43.2579232
+          ],
+          [
+            -2.9480224,
+            43.2579173
+          ],
+          [
+            -2.9478009,
+            43.2579114
+          ],
+          [
+            -2.946858,
+            43.2578669
+          ],
+          [
+            -2.9463184,
+            43.2578371
+          ],
+          [
+            -2.9460806,
+            43.2578249
+          ],
+          [
+            -2.9459348,
+            43.2578177
+          ]
+        ]
+      },
+      "id": "way/1026649192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026649194",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "30",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9497244,
+            43.2580423
+          ],
+          [
+            -2.9495198,
+            43.2580326
+          ],
+          [
+            -2.9491603,
+            43.2580157
+          ],
+          [
+            -2.9490391,
+            43.2580084
+          ],
+          [
+            -2.9486953,
+            43.2579912
+          ],
+          [
+            -2.9481445,
+            43.2579637
+          ],
+          [
+            -2.9481023,
+            43.2579616
+          ],
+          [
+            -2.9480151,
+            43.2579559
+          ],
+          [
+            -2.94779,
+            43.257946
+          ],
+          [
+            -2.9468819,
+            43.2579039
+          ],
+          [
+            -2.946326,
+            43.257873
+          ],
+          [
+            -2.9463037,
+            43.2578716
+          ],
+          [
+            -2.9460856,
+            43.2578607
+          ],
+          [
+            -2.9459393,
+            43.2578543
+          ]
+        ]
+      },
+      "id": "way/1026649194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026649196",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "10",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9497312,
+            43.2580082
+          ],
+          [
+            -2.949526,
+            43.2579978
+          ],
+          [
+            -2.9490754,
+            43.257975
+          ],
+          [
+            -2.9486964,
+            43.2579558
+          ]
+        ]
+      },
+      "id": "way/1026649196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026649198",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "25",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.950292,
+            43.2582265
+          ],
+          [
+            -2.9501992,
+            43.2581666
+          ],
+          [
+            -2.9501554,
+            43.258143
+          ],
+          [
+            -2.9501009,
+            43.2581178
+          ],
+          [
+            -2.9500342,
+            43.2580924
+          ],
+          [
+            -2.9499566,
+            43.2580711
+          ],
+          [
+            -2.9499155,
+            43.2580627
+          ],
+          [
+            -2.9498628,
+            43.2580539
+          ],
+          [
+            -2.9497677,
+            43.2580443
+          ],
+          [
+            -2.9497244,
+            43.2580423
+          ]
+        ]
+      },
+      "id": "way/1026649198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026649200",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9502297,
+            43.2581331
+          ],
+          [
+            -2.9501843,
+            43.2581075
+          ],
+          [
+            -2.950124,
+            43.2580803
+          ],
+          [
+            -2.9500289,
+            43.2580473
+          ],
+          [
+            -2.9499855,
+            43.2580371
+          ],
+          [
+            -2.949915,
+            43.2580226
+          ],
+          [
+            -2.9498244,
+            43.2580129
+          ],
+          [
+            -2.9497312,
+            43.2580082
+          ]
+        ]
+      },
+      "id": "way/1026649200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026649201",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "30",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9513357,
+            43.2588346
+          ],
+          [
+            -2.9511077,
+            43.2587227
+          ],
+          [
+            -2.9510081,
+            43.258673
+          ],
+          [
+            -2.9508865,
+            43.2586059
+          ],
+          [
+            -2.9507738,
+            43.2585395
+          ],
+          [
+            -2.950656,
+            43.2584674
+          ],
+          [
+            -2.950292,
+            43.2582265
+          ]
+        ]
+      },
+      "id": "way/1026649201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026649202",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9515268,
+            43.2591327
+          ],
+          [
+            -2.9515388,
+            43.2590864
+          ],
+          [
+            -2.9515403,
+            43.2590463
+          ],
+          [
+            -2.9515312,
+            43.2590029
+          ],
+          [
+            -2.9515146,
+            43.258966
+          ],
+          [
+            -2.9514993,
+            43.2589464
+          ],
+          [
+            -2.9514678,
+            43.258911
+          ],
+          [
+            -2.9514225,
+            43.2588786
+          ],
+          [
+            -2.9513423,
+            43.2588379
+          ],
+          [
+            -2.9513357,
+            43.2588346
+          ]
+        ]
+      },
+      "id": "way/1026649202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026649203",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "30",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9511998,
+            43.2587313
+          ],
+          [
+            -2.9510496,
+            43.2586504
+          ],
+          [
+            -2.9508774,
+            43.2585515
+          ],
+          [
+            -2.9507832,
+            43.258494
+          ],
+          [
+            -2.9506826,
+            43.2584304
+          ],
+          [
+            -2.9503233,
+            43.2581922
+          ],
+          [
+            -2.9502297,
+            43.2581331
+          ]
+        ]
+      },
+      "id": "way/1026649203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026649205",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "10",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9515748,
+            43.2591082
+          ],
+          [
+            -2.9515894,
+            43.2590688
+          ],
+          [
+            -2.9515954,
+            43.2590391
+          ],
+          [
+            -2.9515958,
+            43.2590138
+          ],
+          [
+            -2.9515841,
+            43.2589699
+          ],
+          [
+            -2.9515622,
+            43.2589363
+          ],
+          [
+            -2.9515267,
+            43.2588995
+          ],
+          [
+            -2.9514859,
+            43.2588737
+          ],
+          [
+            -2.9513574,
+            43.2588097
+          ],
+          [
+            -2.9511998,
+            43.2587313
+          ]
+        ]
+      },
+      "id": "way/1026649205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672471",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "30",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9511978,
+            43.2599365
+          ],
+          [
+            -2.9512858,
+            43.2597274
+          ],
+          [
+            -2.9513351,
+            43.2596075
+          ],
+          [
+            -2.9513725,
+            43.2595149
+          ],
+          [
+            -2.9515268,
+            43.2591327
+          ]
+        ]
+      },
+      "id": "way/1026672471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672472",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "30",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9513679,
+            43.2596149
+          ],
+          [
+            -2.9514066,
+            43.25952
+          ],
+          [
+            -2.9515748,
+            43.2591082
+          ]
+        ]
+      },
+      "id": "way/1026672472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672473",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9512336,
+            43.2599436
+          ],
+          [
+            -2.9513172,
+            43.2597365
+          ],
+          [
+            -2.9513679,
+            43.2596149
+          ]
+        ]
+      },
+      "id": "way/1026672473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672474",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "usage": "branch",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9510751,
+            43.2602468
+          ],
+          [
+            -2.9511986,
+            43.2600277
+          ]
+        ]
+      },
+      "id": "way/1026672474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672475",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9510332,
+            43.2604394
+          ],
+          [
+            -2.9511083,
+            43.2602525
+          ],
+          [
+            -2.9511986,
+            43.2600277
+          ],
+          [
+            -2.9512336,
+            43.2599436
+          ]
+        ]
+      },
+      "id": "way/1026672475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672476",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.951,
+            43.2604328
+          ],
+          [
+            -2.9510751,
+            43.2602468
+          ],
+          [
+            -2.9511662,
+            43.2600215
+          ],
+          [
+            -2.9511978,
+            43.2599365
+          ]
+        ]
+      },
+      "id": "way/1026672476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672477",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "usage": "branch",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9511083,
+            43.2602525
+          ],
+          [
+            -2.9511662,
+            43.2600215
+          ]
+        ]
+      },
+      "id": "way/1026672477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672478",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9509031,
+            43.2606724
+          ],
+          [
+            -2.951,
+            43.2604328
+          ]
+        ]
+      },
+      "id": "way/1026672478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672479",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9509371,
+            43.2606787
+          ],
+          [
+            -2.9510332,
+            43.2604394
+          ]
+        ]
+      },
+      "id": "way/1026672479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672480",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "30",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9505509,
+            43.2615293
+          ],
+          [
+            -2.9506012,
+            43.2614047
+          ],
+          [
+            -2.9507895,
+            43.2609519
+          ],
+          [
+            -2.9508181,
+            43.2608827
+          ],
+          [
+            -2.9508592,
+            43.2607767
+          ],
+          [
+            -2.9509031,
+            43.2606724
+          ]
+        ]
+      },
+      "id": "way/1026672480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672481",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "30",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9505846,
+            43.2615339
+          ],
+          [
+            -2.9506377,
+            43.2614123
+          ],
+          [
+            -2.9508234,
+            43.2609597
+          ],
+          [
+            -2.9508519,
+            43.2608909
+          ],
+          [
+            -2.9508951,
+            43.2607833
+          ],
+          [
+            -2.9509371,
+            43.2606787
+          ]
+        ]
+      },
+      "id": "way/1026672481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672482",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9504123,
+            43.2619482
+          ],
+          [
+            -2.950445,
+            43.2618743
+          ],
+          [
+            -2.9504826,
+            43.2617839
+          ],
+          [
+            -2.9504914,
+            43.2617623
+          ],
+          [
+            -2.9505048,
+            43.2617275
+          ],
+          [
+            -2.9505129,
+            43.2617064
+          ],
+          [
+            -2.9505301,
+            43.261665
+          ],
+          [
+            -2.9505846,
+            43.2615339
+          ]
+        ]
+      },
+      "id": "way/1026672482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672483",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.950376,
+            43.2619417
+          ],
+          [
+            -2.9504091,
+            43.2618663
+          ],
+          [
+            -2.9504459,
+            43.2617759
+          ],
+          [
+            -2.9504566,
+            43.2617541
+          ],
+          [
+            -2.9504716,
+            43.26172
+          ],
+          [
+            -2.9504814,
+            43.2616976
+          ],
+          [
+            -2.9504978,
+            43.2616578
+          ],
+          [
+            -2.9505509,
+            43.2615293
+          ]
+        ]
+      },
+      "id": "way/1026672483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672484",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9478922,
+            43.2610257
+          ],
+          [
+            -2.9482706,
+            43.2612696
+          ],
+          [
+            -2.9483936,
+            43.2613523
+          ],
+          [
+            -2.9485059,
+            43.2614325
+          ],
+          [
+            -2.9486807,
+            43.2615478
+          ],
+          [
+            -2.9488391,
+            43.2616543
+          ],
+          [
+            -2.949069,
+            43.2618014
+          ],
+          [
+            -2.949212,
+            43.2618943
+          ],
+          [
+            -2.9496946,
+            43.2622079
+          ],
+          [
+            -2.9497429,
+            43.2622398
+          ]
+        ]
+      },
+      "id": "way/1026672484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672485",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9478702,
+            43.2610464
+          ],
+          [
+            -2.9481283,
+            43.2612132
+          ],
+          [
+            -2.9483152,
+            43.261335
+          ],
+          [
+            -2.9483817,
+            43.2613805
+          ],
+          [
+            -2.9484989,
+            43.2614655
+          ],
+          [
+            -2.9486606,
+            43.2615702
+          ],
+          [
+            -2.948816,
+            43.2616707
+          ],
+          [
+            -2.9490425,
+            43.2618216
+          ],
+          [
+            -2.9491868,
+            43.2619168
+          ],
+          [
+            -2.9496684,
+            43.2622346
+          ],
+          [
+            -2.9497126,
+            43.2622644
+          ]
+        ]
+      },
+      "id": "way/1026672485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672486",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9470678,
+            43.2612787
+          ],
+          [
+            -2.9470952,
+            43.2612116
+          ],
+          [
+            -2.9471188,
+            43.2611623
+          ],
+          [
+            -2.9471472,
+            43.2611146
+          ],
+          [
+            -2.947176,
+            43.2610745
+          ],
+          [
+            -2.9472284,
+            43.2610273
+          ],
+          [
+            -2.9472705,
+            43.2609975
+          ],
+          [
+            -2.947299,
+            43.2609843
+          ],
+          [
+            -2.9473241,
+            43.2609726
+          ],
+          [
+            -2.9473704,
+            43.2609554
+          ],
+          [
+            -2.9474044,
+            43.2609469
+          ],
+          [
+            -2.947445,
+            43.2609383
+          ],
+          [
+            -2.9474908,
+            43.2609348
+          ],
+          [
+            -2.9475534,
+            43.2609343
+          ],
+          [
+            -2.9475778,
+            43.2609359
+          ],
+          [
+            -2.9476301,
+            43.2609446
+          ],
+          [
+            -2.9476673,
+            43.260953
+          ],
+          [
+            -2.9477159,
+            43.2609683
+          ],
+          [
+            -2.9477518,
+            43.2609839
+          ],
+          [
+            -2.9478023,
+            43.2610079
+          ],
+          [
+            -2.9478702,
+            43.2610464
+          ]
+        ]
+      },
+      "id": "way/1026672486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672487",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9470332,
+            43.2612721
+          ],
+          [
+            -2.9470733,
+            43.2611734
+          ],
+          [
+            -2.947098,
+            43.2611162
+          ],
+          [
+            -2.9471231,
+            43.2610745
+          ],
+          [
+            -2.9471639,
+            43.2610294
+          ],
+          [
+            -2.9471861,
+            43.2610092
+          ],
+          [
+            -2.9472213,
+            43.2609832
+          ],
+          [
+            -2.9472747,
+            43.2609534
+          ],
+          [
+            -2.9473067,
+            43.2609388
+          ],
+          [
+            -2.9473558,
+            43.2609224
+          ],
+          [
+            -2.9474037,
+            43.260909
+          ],
+          [
+            -2.9474666,
+            43.2609013
+          ],
+          [
+            -2.9474968,
+            43.2608996
+          ],
+          [
+            -2.9475228,
+            43.2608985
+          ],
+          [
+            -2.9475811,
+            43.260902
+          ],
+          [
+            -2.9476289,
+            43.2609084
+          ],
+          [
+            -2.9476946,
+            43.2609227
+          ],
+          [
+            -2.9477694,
+            43.2609513
+          ],
+          [
+            -2.9478554,
+            43.2610013
+          ],
+          [
+            -2.9478922,
+            43.2610257
+          ]
+        ]
+      },
+      "id": "way/1026672487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672488",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9456897,
+            43.2646594
+          ],
+          [
+            -2.9458498,
+            43.2642696
+          ],
+          [
+            -2.9460156,
+            43.2638571
+          ],
+          [
+            -2.9462184,
+            43.2633615
+          ],
+          [
+            -2.9462661,
+            43.2632421
+          ],
+          [
+            -2.9464322,
+            43.2628349
+          ],
+          [
+            -2.9465069,
+            43.2626517
+          ],
+          [
+            -2.9466342,
+            43.2623398
+          ],
+          [
+            -2.9470678,
+            43.2612787
+          ]
+        ]
+      },
+      "id": "way/1026672488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672489",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9456556,
+            43.2646525
+          ],
+          [
+            -2.9458146,
+            43.2642626
+          ],
+          [
+            -2.9459839,
+            43.2638505
+          ],
+          [
+            -2.9461852,
+            43.2633536
+          ],
+          [
+            -2.9462324,
+            43.263239
+          ],
+          [
+            -2.9464755,
+            43.2626443
+          ],
+          [
+            -2.9465983,
+            43.2623409
+          ],
+          [
+            -2.9470332,
+            43.2612721
+          ]
+        ]
+      },
+      "id": "way/1026672489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672490",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "25",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9455776,
+            43.2653599
+          ],
+          [
+            -2.9455832,
+            43.2653216
+          ],
+          [
+            -2.9455836,
+            43.265292
+          ],
+          [
+            -2.9455798,
+            43.2652306
+          ],
+          [
+            -2.9455706,
+            43.2651477
+          ],
+          [
+            -2.9455649,
+            43.2650756
+          ],
+          [
+            -2.9455681,
+            43.2650129
+          ],
+          [
+            -2.9455795,
+            43.2649467
+          ],
+          [
+            -2.9456006,
+            43.2648787
+          ],
+          [
+            -2.9456897,
+            43.2646594
+          ]
+        ]
+      },
+      "id": "way/1026672490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672491",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "25",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9455441,
+            43.2653007
+          ],
+          [
+            -2.9455448,
+            43.2652544
+          ],
+          [
+            -2.9455413,
+            43.26521
+          ],
+          [
+            -2.9455365,
+            43.2651536
+          ],
+          [
+            -2.9455267,
+            43.265072
+          ],
+          [
+            -2.9455292,
+            43.265004
+          ],
+          [
+            -2.9455413,
+            43.2649449
+          ],
+          [
+            -2.9455527,
+            43.26491
+          ],
+          [
+            -2.945565,
+            43.2648739
+          ],
+          [
+            -2.9456556,
+            43.2646525
+          ]
+        ]
+      },
+      "id": "way/1026672491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672492",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "20",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9446412,
+            43.2661042
+          ],
+          [
+            -2.9447417,
+            43.2660638
+          ],
+          [
+            -2.9447733,
+            43.266047
+          ],
+          [
+            -2.9447822,
+            43.2660419
+          ],
+          [
+            -2.9448185,
+            43.2660245
+          ],
+          [
+            -2.9448792,
+            43.2659883
+          ],
+          [
+            -2.9449242,
+            43.2659571
+          ],
+          [
+            -2.9449468,
+            43.2659406
+          ],
+          [
+            -2.9450119,
+            43.2658933
+          ],
+          [
+            -2.9453594,
+            43.2656149
+          ],
+          [
+            -2.9453838,
+            43.2655976
+          ],
+          [
+            -2.9454269,
+            43.2655568
+          ],
+          [
+            -2.9454622,
+            43.2655103
+          ],
+          [
+            -2.9454959,
+            43.2654628
+          ],
+          [
+            -2.9455227,
+            43.2654043
+          ],
+          [
+            -2.9455323,
+            43.2653684
+          ],
+          [
+            -2.9455411,
+            43.2653324
+          ],
+          [
+            -2.9455441,
+            43.2653007
+          ]
+        ]
+      },
+      "id": "way/1026672492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672493",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "20",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9446416,
+            43.2661351
+          ],
+          [
+            -2.9446912,
+            43.2661185
+          ],
+          [
+            -2.9447572,
+            43.2660893
+          ],
+          [
+            -2.9447982,
+            43.2660712
+          ],
+          [
+            -2.9448456,
+            43.2660448
+          ],
+          [
+            -2.944901,
+            43.2660107
+          ],
+          [
+            -2.944953,
+            43.2659735
+          ],
+          [
+            -2.9454052,
+            43.2656161
+          ],
+          [
+            -2.945463,
+            43.2655681
+          ],
+          [
+            -2.9454967,
+            43.2655326
+          ],
+          [
+            -2.9455206,
+            43.265501
+          ],
+          [
+            -2.9455331,
+            43.2654811
+          ],
+          [
+            -2.9455592,
+            43.2654262
+          ],
+          [
+            -2.9455718,
+            43.2653889
+          ],
+          [
+            -2.9455776,
+            43.2653599
+          ]
+        ]
+      },
+      "id": "way/1026672493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672494",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "usage": "branch"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9426132,
+            43.2671755
+          ],
+          [
+            -2.9428104,
+            43.2669764
+          ]
+        ]
+      },
+      "id": "way/1026672494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672495",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "30",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9428104,
+            43.2669764
+          ],
+          [
+            -2.9429319,
+            43.2668163
+          ],
+          [
+            -2.9429946,
+            43.2667358
+          ],
+          [
+            -2.9430404,
+            43.2666861
+          ],
+          [
+            -2.9430647,
+            43.266662
+          ],
+          [
+            -2.9430936,
+            43.2666339
+          ],
+          [
+            -2.9431559,
+            43.2665808
+          ],
+          [
+            -2.9432112,
+            43.2665401
+          ],
+          [
+            -2.9432572,
+            43.2665108
+          ],
+          [
+            -2.9433124,
+            43.2664791
+          ],
+          [
+            -2.9433796,
+            43.2664428
+          ],
+          [
+            -2.9434646,
+            43.2664058
+          ],
+          [
+            -2.9435323,
+            43.2663817
+          ],
+          [
+            -2.9436026,
+            43.266359
+          ],
+          [
+            -2.9436826,
+            43.2663373
+          ],
+          [
+            -2.9439533,
+            43.2662828
+          ],
+          [
+            -2.9442029,
+            43.2662333
+          ],
+          [
+            -2.9442959,
+            43.2662149
+          ],
+          [
+            -2.9445,
+            43.2661738
+          ],
+          [
+            -2.9445877,
+            43.2661514
+          ],
+          [
+            -2.9446416,
+            43.2661351
+          ]
+        ]
+      },
+      "id": "way/1026672495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026672496",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "30",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9426132,
+            43.2671755
+          ],
+          [
+            -2.9428901,
+            43.26681
+          ],
+          [
+            -2.9429572,
+            43.2667221
+          ],
+          [
+            -2.9430033,
+            43.2666696
+          ],
+          [
+            -2.9430315,
+            43.2666428
+          ],
+          [
+            -2.9430636,
+            43.2666103
+          ],
+          [
+            -2.9431157,
+            43.2665661
+          ],
+          [
+            -2.9431755,
+            43.2665213
+          ],
+          [
+            -2.9432373,
+            43.2664815
+          ],
+          [
+            -2.9433035,
+            43.2664443
+          ],
+          [
+            -2.9433646,
+            43.2664138
+          ],
+          [
+            -2.9434479,
+            43.2663789
+          ],
+          [
+            -2.9435167,
+            43.2663544
+          ],
+          [
+            -2.9435952,
+            43.266331
+          ],
+          [
+            -2.9436728,
+            43.2663115
+          ],
+          [
+            -2.9439413,
+            43.2662568
+          ],
+          [
+            -2.9441935,
+            43.2662081
+          ],
+          [
+            -2.944289,
+            43.2661897
+          ],
+          [
+            -2.9444909,
+            43.266148
+          ],
+          [
+            -2.9445652,
+            43.2661279
+          ],
+          [
+            -2.9446412,
+            43.2661042
+          ]
+        ]
+      },
+      "id": "way/1026672496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677856",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "25",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9347248,
+            43.2678893
+          ],
+          [
+            -2.9347962,
+            43.2678822
+          ],
+          [
+            -2.9348622,
+            43.267878
+          ],
+          [
+            -2.9349731,
+            43.2678825
+          ],
+          [
+            -2.9350814,
+            43.2678989
+          ],
+          [
+            -2.9351793,
+            43.267926
+          ],
+          [
+            -2.9352395,
+            43.2679516
+          ],
+          [
+            -2.9352571,
+            43.2679591
+          ],
+          [
+            -2.9353513,
+            43.2680099
+          ]
+        ]
+      },
+      "id": "way/1026677856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677857",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "25",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9347207,
+            43.2679278
+          ],
+          [
+            -2.9347721,
+            43.2679228
+          ],
+          [
+            -2.9348467,
+            43.2679164
+          ],
+          [
+            -2.9349346,
+            43.2679187
+          ],
+          [
+            -2.9350019,
+            43.2679263
+          ],
+          [
+            -2.9350778,
+            43.2679389
+          ],
+          [
+            -2.935087,
+            43.2679413
+          ],
+          [
+            -2.9351331,
+            43.2679535
+          ],
+          [
+            -2.9351569,
+            43.2679603
+          ],
+          [
+            -2.9352061,
+            43.2679775
+          ],
+          [
+            -2.9352703,
+            43.2680061
+          ],
+          [
+            -2.9353409,
+            43.2680458
+          ]
+        ]
+      },
+      "id": "way/1026677857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677858",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9320862,
+            43.2680876
+          ],
+          [
+            -2.932204,
+            43.2680886
+          ],
+          [
+            -2.9327728,
+            43.2680896
+          ],
+          [
+            -2.9329236,
+            43.2680858
+          ],
+          [
+            -2.9331018,
+            43.2680785
+          ],
+          [
+            -2.9332906,
+            43.2680665
+          ],
+          [
+            -2.9335494,
+            43.2680464
+          ],
+          [
+            -2.9337704,
+            43.2680258
+          ]
+        ]
+      },
+      "id": "way/1026677858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677859",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9320937,
+            43.268118
+          ],
+          [
+            -2.9322033,
+            43.2681173
+          ],
+          [
+            -2.9326766,
+            43.2681182
+          ],
+          [
+            -2.9328531,
+            43.2681206
+          ],
+          [
+            -2.9329525,
+            43.2681188
+          ],
+          [
+            -2.9330977,
+            43.2681142
+          ],
+          [
+            -2.9332807,
+            43.2681025
+          ],
+          [
+            -2.9335631,
+            43.2680832
+          ],
+          [
+            -2.9337709,
+            43.2680645
+          ]
+        ]
+      },
+      "id": "way/1026677859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677860",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "20",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9316019,
+            43.2681507
+          ],
+          [
+            -2.9317777,
+            43.2681117
+          ],
+          [
+            -2.9318522,
+            43.2680998
+          ],
+          [
+            -2.9318996,
+            43.2680934
+          ],
+          [
+            -2.9319854,
+            43.2680887
+          ],
+          [
+            -2.9320862,
+            43.2680876
+          ]
+        ]
+      },
+      "id": "way/1026677860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677861",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "20",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9316122,
+            43.2681817
+          ],
+          [
+            -2.931694,
+            43.2681645
+          ],
+          [
+            -2.931761,
+            43.2681502
+          ],
+          [
+            -2.9317938,
+            43.2681428
+          ],
+          [
+            -2.9318689,
+            43.2681301
+          ],
+          [
+            -2.9319539,
+            43.2681213
+          ],
+          [
+            -2.9320261,
+            43.2681184
+          ],
+          [
+            -2.9320937,
+            43.268118
+          ]
+        ]
+      },
+      "id": "way/1026677861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677862",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "30",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9303654,
+            43.2678789
+          ],
+          [
+            -2.9304769,
+            43.2679636
+          ],
+          [
+            -2.9305628,
+            43.2680214
+          ],
+          [
+            -2.9306494,
+            43.2680705
+          ],
+          [
+            -2.9307433,
+            43.2681125
+          ],
+          [
+            -2.9308452,
+            43.2681505
+          ],
+          [
+            -2.930943,
+            43.268178
+          ],
+          [
+            -2.9310465,
+            43.2681996
+          ],
+          [
+            -2.93115,
+            43.2682113
+          ],
+          [
+            -2.9312728,
+            43.2682177
+          ],
+          [
+            -2.9313173,
+            43.2682173
+          ],
+          [
+            -2.9313244,
+            43.2682166
+          ],
+          [
+            -2.9313544,
+            43.268216
+          ],
+          [
+            -2.9314085,
+            43.2682138
+          ],
+          [
+            -2.9315303,
+            43.268199
+          ],
+          [
+            -2.9316122,
+            43.2681817
+          ]
+        ]
+      },
+      "id": "way/1026677862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677863",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "30",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9304001,
+            43.2678601
+          ],
+          [
+            -2.9304589,
+            43.2679057
+          ],
+          [
+            -2.9305744,
+            43.2679858
+          ],
+          [
+            -2.930657,
+            43.2680349
+          ],
+          [
+            -2.9307661,
+            43.2680857
+          ],
+          [
+            -2.9309182,
+            43.268137
+          ],
+          [
+            -2.9310273,
+            43.2681616
+          ],
+          [
+            -2.93115,
+            43.2681786
+          ],
+          [
+            -2.9312503,
+            43.2681844
+          ],
+          [
+            -2.9313241,
+            43.2681843
+          ],
+          [
+            -2.9313862,
+            43.268181
+          ],
+          [
+            -2.9315048,
+            43.2681682
+          ],
+          [
+            -2.9316019,
+            43.2681507
+          ]
+        ]
+      },
+      "id": "way/1026677863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677864",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9254911,
+            43.2640277
+          ],
+          [
+            -2.9258093,
+            43.2641963
+          ],
+          [
+            -2.9259061,
+            43.2642485
+          ],
+          [
+            -2.925936,
+            43.2642657
+          ],
+          [
+            -2.9259988,
+            43.2643001
+          ]
+        ]
+      },
+      "id": "way/1026677864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677865",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9254911,
+            43.2640277
+          ],
+          [
+            -2.92562,
+            43.2641138
+          ],
+          [
+            -2.925762,
+            43.2642097
+          ],
+          [
+            -2.925881,
+            43.2642737
+          ],
+          [
+            -2.9259121,
+            43.2642904
+          ],
+          [
+            -2.9259744,
+            43.264325
+          ]
+        ]
+      },
+      "id": "way/1026677865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677866",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9252846,
+            43.2639125
+          ],
+          [
+            -2.9254911,
+            43.2640277
+          ]
+        ]
+      },
+      "id": "way/1026677866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677868",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "20",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9250622,
+            43.2635644
+          ],
+          [
+            -2.9250623,
+            43.263574
+          ],
+          [
+            -2.925067,
+            43.2636175
+          ],
+          [
+            -2.9250764,
+            43.2636671
+          ],
+          [
+            -2.9250983,
+            43.2637192
+          ],
+          [
+            -2.925129,
+            43.2637705
+          ],
+          [
+            -2.9251651,
+            43.2638185
+          ],
+          [
+            -2.9252052,
+            43.263856
+          ],
+          [
+            -2.9252846,
+            43.2639125
+          ]
+        ]
+      },
+      "id": "way/1026677868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677869",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9250691,
+            43.2629681
+          ],
+          [
+            -2.9250747,
+            43.2630011
+          ],
+          [
+            -2.9250622,
+            43.2635644
+          ]
+        ]
+      },
+      "id": "way/1026677869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677870",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9251317,
+            43.2625314
+          ],
+          [
+            -2.9250781,
+            43.2625704
+          ],
+          [
+            -2.9250373,
+            43.2626035
+          ],
+          [
+            -2.9250112,
+            43.2626395
+          ],
+          [
+            -2.9250009,
+            43.2626655
+          ],
+          [
+            -2.9249942,
+            43.2626833
+          ],
+          [
+            -2.9249878,
+            43.262715
+          ],
+          [
+            -2.9249925,
+            43.2627579
+          ],
+          [
+            -2.9250102,
+            43.2628164
+          ],
+          [
+            -2.9250334,
+            43.2628646
+          ],
+          [
+            -2.9250476,
+            43.262896
+          ],
+          [
+            -2.9250588,
+            43.2629213
+          ],
+          [
+            -2.9250691,
+            43.2629681
+          ]
+        ]
+      },
+      "id": "way/1026677870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677871",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9268308,
+            43.2615307
+          ],
+          [
+            -2.9265155,
+            43.2617161
+          ],
+          [
+            -2.9260241,
+            43.2620081
+          ],
+          [
+            -2.9259021,
+            43.2620805
+          ],
+          [
+            -2.9253017,
+            43.2624341
+          ],
+          [
+            -2.9251317,
+            43.2625314
+          ]
+        ]
+      },
+      "id": "way/1026677871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677872",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9268206,
+            43.2610753
+          ],
+          [
+            -2.9268756,
+            43.2611065
+          ],
+          [
+            -2.9269009,
+            43.2611219
+          ],
+          [
+            -2.9269438,
+            43.2611586
+          ],
+          [
+            -2.9269756,
+            43.261196
+          ],
+          [
+            -2.9270005,
+            43.2612413
+          ],
+          [
+            -2.9270064,
+            43.2612892
+          ],
+          [
+            -2.9270055,
+            43.261328
+          ],
+          [
+            -2.9270065,
+            43.2613545
+          ],
+          [
+            -2.9269787,
+            43.2614052
+          ],
+          [
+            -2.926942,
+            43.2614511
+          ],
+          [
+            -2.9268931,
+            43.2614887
+          ],
+          [
+            -2.9268308,
+            43.2615307
+          ]
+        ]
+      },
+      "id": "way/1026677872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677873",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9248867,
+            43.2592397
+          ],
+          [
+            -2.9247568,
+            43.2592554
+          ],
+          [
+            -2.9246463,
+            43.2592745
+          ],
+          [
+            -2.9245205,
+            43.2593159
+          ],
+          [
+            -2.9243299,
+            43.2593962
+          ]
+        ]
+      },
+      "id": "way/1026677873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677874",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9251292,
+            43.2592094
+          ],
+          [
+            -2.9248867,
+            43.2592397
+          ]
+        ]
+      },
+      "id": "way/1026677874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677875",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9253523,
+            43.2591797
+          ],
+          [
+            -2.9251292,
+            43.2592094
+          ]
+        ]
+      },
+      "id": "way/1026677875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677878",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9263843,
+            43.2588764
+          ],
+          [
+            -2.9263131,
+            43.2589186
+          ],
+          [
+            -2.9262365,
+            43.2589547
+          ],
+          [
+            -2.926115,
+            43.2589996
+          ]
+        ]
+      },
+      "id": "way/1026677878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677879",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9265688,
+            43.2587175
+          ],
+          [
+            -2.9265129,
+            43.2587771
+          ],
+          [
+            -2.9264457,
+            43.2588331
+          ],
+          [
+            -2.9263843,
+            43.2588764
+          ]
+        ]
+      },
+      "id": "way/1026677879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677880",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "25",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9220364,
+            43.2549769
+          ],
+          [
+            -2.9222085,
+            43.2551478
+          ],
+          [
+            -2.9222623,
+            43.2551916
+          ],
+          [
+            -2.922292,
+            43.2552158
+          ],
+          [
+            -2.9223702,
+            43.2552662
+          ],
+          [
+            -2.9224475,
+            43.2553107
+          ],
+          [
+            -2.9225526,
+            43.2553572
+          ],
+          [
+            -2.9226497,
+            43.2553912
+          ],
+          [
+            -2.9227215,
+            43.2554112
+          ],
+          [
+            -2.9227364,
+            43.2554145
+          ],
+          [
+            -2.922792,
+            43.2554268
+          ],
+          [
+            -2.9228936,
+            43.2554445
+          ],
+          [
+            -2.9231024,
+            43.2554703
+          ],
+          [
+            -2.9232993,
+            43.2554947
+          ],
+          [
+            -2.923454,
+            43.2555162
+          ],
+          [
+            -2.9235717,
+            43.2555398
+          ]
+        ]
+      },
+      "id": "way/1026677880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677881",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9214632,
+            43.254399
+          ],
+          [
+            -2.9218642,
+            43.254806
+          ],
+          [
+            -2.9220364,
+            43.2549769
+          ]
+        ]
+      },
+      "id": "way/1026677881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677882",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "10",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9214734,
+            43.254202
+          ],
+          [
+            -2.9214378,
+            43.2542296
+          ],
+          [
+            -2.9214277,
+            43.2542511
+          ],
+          [
+            -2.9214249,
+            43.2542695
+          ],
+          [
+            -2.9214231,
+            43.2542924
+          ],
+          [
+            -2.9214232,
+            43.2543127
+          ],
+          [
+            -2.9214233,
+            43.2543184
+          ],
+          [
+            -2.9214314,
+            43.2543469
+          ],
+          [
+            -2.9214437,
+            43.2543676
+          ],
+          [
+            -2.9214632,
+            43.254399
+          ]
+        ]
+      },
+      "id": "way/1026677882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677883",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9218274,
+            43.2540106
+          ],
+          [
+            -2.9217273,
+            43.2540638
+          ],
+          [
+            -2.9215344,
+            43.2541664
+          ],
+          [
+            -2.9214734,
+            43.254202
+          ]
+        ]
+      },
+      "id": "way/1026677883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677884",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "50",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9218875,
+            43.2539785
+          ],
+          [
+            -2.9218274,
+            43.2540106
+          ]
+        ]
+      },
+      "id": "way/1026677884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1026677885",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "10",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9219717,
+            43.2538054
+          ],
+          [
+            -2.9219787,
+            43.2538428
+          ],
+          [
+            -2.9219777,
+            43.2538684
+          ],
+          [
+            -2.921974,
+            43.2538884
+          ],
+          [
+            -2.9219626,
+            43.2539134
+          ],
+          [
+            -2.9219461,
+            43.2539343
+          ],
+          [
+            -2.921919,
+            43.2539575
+          ],
+          [
+            -2.9218875,
+            43.2539785
+          ]
+        ]
+      },
+      "id": "way/1026677885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1042916878",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9066528,
+            43.2472355
+          ],
+          [
+            -2.9070515,
+            43.2472347
+          ]
+        ]
+      },
+      "id": "way/1042916878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1042916879",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "layer": "-2",
+        "maxspeed": "15",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9066255,
+            43.2472057
+          ],
+          [
+            -2.9066524,
+            43.2472057
+          ]
+        ]
+      },
+      "id": "way/1042916879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1059679716",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "55",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9134828,
+            43.2462339
+          ],
+          [
+            -2.9137862,
+            43.246217
+          ],
+          [
+            -2.9139343,
+            43.2462058
+          ],
+          [
+            -2.9140856,
+            43.2461887
+          ],
+          [
+            -2.9142007,
+            43.2461713
+          ],
+          [
+            -2.9143129,
+            43.2461511
+          ],
+          [
+            -2.9144333,
+            43.2461245
+          ],
+          [
+            -2.914551,
+            43.2460941
+          ],
+          [
+            -2.9146734,
+            43.2460582
+          ],
+          [
+            -2.9147897,
+            43.2460188
+          ],
+          [
+            -2.9148899,
+            43.2459817
+          ],
+          [
+            -2.9150062,
+            43.2459312
+          ],
+          [
+            -2.9150998,
+            43.245887
+          ],
+          [
+            -2.9151967,
+            43.2458369
+          ],
+          [
+            -2.9152659,
+            43.2458
+          ],
+          [
+            -2.9153266,
+            43.2457633
+          ],
+          [
+            -2.9153981,
+            43.2457195
+          ],
+          [
+            -2.9154773,
+            43.2456656
+          ],
+          [
+            -2.9156875,
+            43.2455161
+          ],
+          [
+            -2.9157646,
+            43.2454643
+          ]
+        ]
+      },
+      "id": "way/1059679716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1059679717",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "55",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.913484,
+            43.2461976
+          ],
+          [
+            -2.9137841,
+            43.2461818
+          ],
+          [
+            -2.9139189,
+            43.2461728
+          ],
+          [
+            -2.9140701,
+            43.2461571
+          ],
+          [
+            -2.9142095,
+            43.2461368
+          ],
+          [
+            -2.9143242,
+            43.2461159
+          ],
+          [
+            -2.9144584,
+            43.2460854
+          ],
+          [
+            -2.9145397,
+            43.2460634
+          ],
+          [
+            -2.9146775,
+            43.2460237
+          ],
+          [
+            -2.9148185,
+            43.2459739
+          ],
+          [
+            -2.9149563,
+            43.2459188
+          ],
+          [
+            -2.9150838,
+            43.2458619
+          ],
+          [
+            -2.9151941,
+            43.2458043
+          ],
+          [
+            -2.9152854,
+            43.2457525
+          ],
+          [
+            -2.9153821,
+            43.245691
+          ],
+          [
+            -2.9154662,
+            43.2456307
+          ],
+          [
+            -2.9155652,
+            43.245561
+          ],
+          [
+            -2.915737,
+            43.2454405
+          ]
+        ]
+      },
+      "id": "way/1059679717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1059679718",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "45",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.915737,
+            43.2454405
+          ],
+          [
+            -2.9159137,
+            43.2453223
+          ],
+          [
+            -2.9159704,
+            43.2452844
+          ],
+          [
+            -2.9161489,
+            43.2451686
+          ],
+          [
+            -2.9161937,
+            43.245143
+          ],
+          [
+            -2.9162878,
+            43.2450965
+          ],
+          [
+            -2.9164612,
+            43.2450212
+          ],
+          [
+            -2.9166312,
+            43.2449613
+          ],
+          [
+            -2.9167749,
+            43.2449185
+          ],
+          [
+            -2.9169285,
+            43.244879
+          ]
+        ]
+      },
+      "id": "way/1059679718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1059679719",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1000",
+        "maxspeed": "45",
+        "operator": "Euskal Trenbide Sarea",
+        "operator:es": "Red Ferroviaria Vasca",
+        "operator:eu": "Euskal Trenbide Sarea",
+        "operator:short": "ETS",
+        "operator:short:es": "RFV",
+        "operator:short:eu": "ETS",
+        "operator:wikidata": "Q2838529",
+        "railway": "tram",
+        "source": "Eusko Jaurlaritza-Gobierno Vasco",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9157646,
+            43.2454643
+          ],
+          [
+            -2.9159381,
+            43.2453479
+          ],
+          [
+            -2.9161826,
+            43.2451965
+          ],
+          [
+            -2.9162551,
+            43.2451548
+          ],
+          [
+            -2.9163835,
+            43.2450968
+          ],
+          [
+            -2.9165016,
+            43.2450509
+          ],
+          [
+            -2.9166653,
+            43.2450002
+          ],
+          [
+            -2.9168104,
+            43.244962
+          ],
+          [
+            -2.9169593,
+            43.2449286
+          ]
+        ]
+      },
+      "id": "way/1059679719"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration,agency_id
+Ocasional,1.30,EUR,0,,2700,Bilbobus
+Creditrans,0.65,EUR,1,,2700,Bilbobus
+Barik,0.65,EUR,1,,2700,Bilbobus
+Gizatrans,0.32,EUR,1,,2700,Bilbobus
+Hirukotrans-F20,0.48,EUR,1,,2700,Bilbobus
+Hirukotrans-F50,0.32,EUR,1,,2700,Bilbobus
+Bilbotrans,0.32,EUR,1,,2700,Bilbobus
+Gazte Bio,30,EUR,1,,2700,Bilbobus
+Gautxori,0.65,EUR,0,,2700,Bilbobus

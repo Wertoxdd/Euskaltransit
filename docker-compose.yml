@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  euskal-transit:
+    build: .
+    container_name: euskal-transit-app
+    ports:
+      - "8000:8000"
+    volumes:
+      # Montamos las carpetas de datos en caso de que queramos actualizarlas
+      # sin necesidad de reconstruir toda la imagen Docker (Hot-Reload de datos)
+      - ./datos:/app/datos
+      - ./datos_metro:/app/datos_metro
+    restart: unless-stopped
+    environment:
+      - TZ=Europe/Madrid # Zona horaria local de Bilbao

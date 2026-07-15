@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+Bilbobus,Bilbobus,https://www.bilbao.eus/bilbobus,Europe/Madrid,es,(+34)944790981,https://www.bilbao.eus/cs/Satellite/bilbobus/es/tarifas

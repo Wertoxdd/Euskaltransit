@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+Bilbobus,http://www.bilbao.eus/bilbobus,es,20260701,20260831,1784062870506,webmaster@bilbao.eus,https://www.bilbao.eus/opendata/es/colabora?tipo=1272994245057
